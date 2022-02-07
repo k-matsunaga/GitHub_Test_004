@@ -7,3 +7,6 @@ ken/ken.html
 ken/miro.html
 img/ke.gif
 
+「Visual Studio Code」で編集。
+
+
